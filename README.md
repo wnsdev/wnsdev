@@ -1,6 +1,7 @@
 
-<h1>Wendel Santos&nbsp;-&nbsp;<mark>&nbsp;Software Engineer&nbsp;</mark>&nbsp;&nbsp;&nbsp;<img align=center src='https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white' height=50 /> <img align=center src='https://komarev.com/ghpvc/?username=wnsdev&label=Profile%20views&color=0e75b6&style=flat' height=50 /></h1>
-<h5>#&nbsp;SKILLS</h5>
+<h1><mark>&nbsp;Wendel Santos&nbsp;-&nbsp;Software Engineer&nbsp;</mark>&nbsp;&nbsp;&nbsp;<img align=center src='https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white' height=50 /> <img align=center src='https://komarev.com/ghpvc/?username=wnsdev&label=Profile%20views&color=0e75b6&style=flat' height=50 /></h1>
+
+<h5><mark>&nbsp;#&nbsp;HARD SKILL&nbsp;</mark></h5>
 <p>
 <img align=center src='https://www.svgrepo.com/show/373969/php2.svg' height=50 /> <i><strong>PHP</strong></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align=center src='https://www.svgrepo.com/show/373472/blade.svg' height=32 /> <i><strong>LARAVEL</strong></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -11,7 +12,6 @@
 </p>
 
 
-<h5>#&nbsp;HIGHLIGHT</h5>
-<progress id="file" max="100" value="70">70%</progress>
+<h5><mark>&nbsp;#&nbsp;HIGHLIGHT&nbsp;</mark></h5>
 <blockquote>
 </blockquote>
